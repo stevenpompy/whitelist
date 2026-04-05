@@ -1,0 +1,2 @@
+# whitelist
+whitelist para adguard
