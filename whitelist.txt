@@ -1,0 +1,10 @@
+# Twitter
+||twimg.com^
+||twitter.com^
+||t.co^
+||global.albtls.t.co^
+||t.co^
+||www.t.co^
+||gaming.amazon.com.br^
+||s.click.aliexpress.com^
+||airbnb.sng.link^
