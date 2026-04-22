@@ -8,3 +8,4 @@
 ||gaming.amazon.com.br^
 ||s.click.aliexpress.com^
 ||airbnb.sng.link^
+||mid4.linkedin.com^
