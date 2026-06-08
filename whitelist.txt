@@ -10,3 +10,5 @@
 ||airbnb.sng.link^
 ||mid4.linkedin.com^
 ||web.facebook.com
+||graph-fallback.facebook.com
+||graph.facebook.com
